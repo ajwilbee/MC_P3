@@ -1,4 +1,4 @@
-function [ char_loci ] = FRF_CharLoci( inputss )
+function [ char_loci,w,compOL_frf ] = FRF_CharLoci( inputss )
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here
 
